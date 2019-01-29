@@ -287,9 +287,9 @@ bash /data/data/com.termux/files/home/instatools/node index
 7) git clone https://github.com/DarknessCyberTeam/T00Ls-B4J1N64N
 echo -e "${y} Installer T00Ls-B4J1N64N..."
 echo -e "${y} cd T00Ls-B4J1N64N"
-echo -e "${y} sh B4J1N64N"
+echo -e "${y} sh B4J1N64NN.sh"
 cd /data/data/com.termux/files/home/TOOLs-B4J1N64N
-bash /data/data/com.termux/files/home/TOOLs-B4J1N64N/sh B4J1N64N
+bash /data/data/com.termux/files/home/TOOLs-B4J1N64N/sh B4J1N64N.sh
 
 ;;
 
@@ -313,7 +313,7 @@ echo -e "${y} cd prank"
 echo -e "${y} php call.php"
 echo -e "${y} php wa.php"
 cd /data/data/com.termux/files/home/prank
-bash /data/data/com.termux/files/home/prank/php wa.php
+php /data/data/com.termux/files/home/prank/php wa.php
 
 ;;
 
@@ -324,7 +324,7 @@ echo -e "${y} Installer multi-bruteforce-facebook.git..."
 echo -e "${y} cd multi-bruteforce-facebook"
 echo -e "${y} python2 MBF.py"
 cd /data/data/com.termux/files/home/multi-bruteforce-facebook
-bash /data/data/com.termux/files/home/multi-bruteforce-facebook/python2 MBF.py
+python2 /data/data/com.termux/files/home/multi-bruteforce-facebook/python2 MBF.py
 
 ;;
 
@@ -335,7 +335,7 @@ echo -e "${y} Installer ipcs..."
 echo -e "${y} cd ipcs"
 echo -e "${y} python2 scan.py"
 cd /data/data/com.termux/files/home/ipcs
-bash /data/data/com.termux/files/home/ipcs/python2 scan.py
+python2 /data/data/com.termux/files/home/ipcs/python2 scan.py
 
 ;;
 
@@ -346,7 +346,7 @@ echo -e "${y} Installer fbbrute..."
 echo -e "${y} cd fbbrute"
 echo -e "${y} python2 jomblo.py"
 cd /data/data/com.termux/files/home/fbbrute
-bash /data/data/com.termux/files/home/fbbrute/python2 jomblo.py
+python2 /data/data/com.termux/files/home/fbbrute/python2 jomblo.py
 
 ;;
 
@@ -395,7 +395,7 @@ echo -e "${y} python2 ipgeolocation.py -m"
 echo -e "${y} python2 ipgeolocation.py -h"
 echo -e "${y} python2 ipgeolocation.py -t"
 cd /data/data/com.termux/files/home/IPGeolocation
-bash /data/data/com.termux/files/home/IPGeolocation/python2 ipgeolocation.py
+python2 /data/data/com.termux/files/home/IPGeolocation/python2 ipgeolocation.py
 
 ;;
 
@@ -406,7 +406,7 @@ echo -e "${y} Installer DDoSAttacks.git..."
 echo -e "${y} cd DDoSAttacks"
 echo -e "${y} python2 DDoS.py"
 cd /data/data/com.termux/files/home/DDoSAttacks
-bash /data/data/com.termux/files/home/DDoSAttacks/python2 DDoS.py
+python2 /data/data/com.termux/files/home/DDoSAttacks/python2 DDoS.py
 
 ;;
 
@@ -417,7 +417,7 @@ echo -e "${y} Installer katoolin..."
 echo -e "${y} cd katoolin"
 echo -e "${y} python2 katoolin.py"
 cd /data/data/com.termux/files/home/katoolin
-bash /data/data/com.termux/files/home/katoolin/python2 katoolin
+python2 /data/data/com.termux/files/home/katoolin/python2 katoolin
 
 ;;
 
@@ -464,7 +464,7 @@ echo -e "${y} cd weeman"
 echo -e "${y} chmod 777 weeman.py"
 echo -e "${y} python2 weeman.py"
 cd /data/data/com.termux/files/home/weeman
-bash /data/data/com.termux/files/home/weeman/python2 weeman.py
+python2 /data/data/com.termux/files/home/weeman/python2 weeman.py
 
 ;;
 
@@ -476,7 +476,7 @@ echo -e "${y} cd Hunner"
 echo -e "${y} chmod 777 hunner.py"
 echo -e "${y} python2 hunner.py"
 cd /data/data/com.termux/files/home/Hunner
-bash /data/data/com.termux/files/home/Hunner/python2 hunner.py
+python2 /data/data/com.termux/files/home/Hunner/python2 hunner.py
 
 ;;
 
@@ -487,7 +487,7 @@ echo -e "${y} Installer sqlmap..."
 echo -e "${y} cd sqlmap"
 echo -e "${y} python2 sqlmap.py"
 cd /data/data/com.termux/files/home/sqlmap
-bash /data/data/com.termux/files/home/sqlmap/python2 sqlmap.py
+python2 /data/data/com.termux/files/home/sqlmap/python2 sqlmap.py
 
 ;;
 
@@ -499,7 +499,7 @@ echo -e "${y} cd ReconDog"
 echo -e "${y} chmod +x dog.py"
 echo -e "${y} python2 dog.py"
 cd /data/data/com.termux/files/home/ReconDog
-bash /data/data/com.termux/files/home/ReconDog/python2 dog.py
+python2 /data/data/com.termux/files/home/ReconDog/python2 dog.py
 
 ;;
 
@@ -511,7 +511,7 @@ echo -e "${y} cd hakkuframework"
 echo -e "${y} chmod +x hakku.py"
 echo -e "${y} python2 hakku.py"
 cd /data/data/com.termux/files/home/hakkuframework
-bash /data/data/com.termux/files/home/hakkuframework/python2 hakku.py
+python2 /data/data/com.termux/files/home/hakkuframework/python2 hakku.py
 
 ;;
 
@@ -523,7 +523,7 @@ echo -e "${y} cd RED_HAWK"
 echo -e "${y} chmod +x rhawk.php"
 echo -e "${y} php rhawk.php"
 cd /data/data/com.termux/files/home/RED_HAWK
-bash /data/data/com.termux/files/home/RED_HAWK/php rhawk.php
+php /data/data/com.termux/files/home/RED_HAWK/php rhawk.php
 
 ;;
 
@@ -546,7 +546,7 @@ echo -e "${y} Installer LITEDDOS..."
 echo -e "${y} cd LITEDDOS"
 echo -e "${y} python2 LITEDDOS.py"
 cd /data/data/com.termux/files/home/LITEDDOS
-bash /data/data/com.termux/files/home/LITEDDOS/python2 LITEDDOS.py
+python2 /data/data/com.termux/files/home/LITEDDOS/python2 LITEDDOS.py
 
 ;;
 
@@ -557,7 +557,7 @@ echo -e "${y} Installer A-Rat..."
 echo -e "${y} cd A-Rat"
 echo -e "${y} python2 A-Rat.py"
 cd /data/data/com.termux/files/home/A-Rat
-bash /data/data/com.termux/files/home/A-Rat/python2 A-Rat.py
+python2 /data/data/com.termux/files/home/A-Rat/python2 A-Rat.py
 
 ;;
 
@@ -569,7 +569,7 @@ echo -e "${y} cd script-deface-creator"
 echo -e "${y} chmod +x create.py"
 echo -e "${y} python2 create.py"
 cd /data/data/com.termux/files/home/script-deface-creator
-bash /data/data/com.termux/files/home/script-deface-creator/python2 create.py
+python2 /data/data/com.termux/files/home/script-deface-creator/python2 create.py
 
 ;;
 
@@ -625,7 +625,7 @@ echo -e "${y} Installer hammer..."
 echo -e "${y} cd hammer"
 echo -e "${y} python2 hammer.py"
 cd /data/data/com.termux/files/home/hammer
-bash /data/data/com.termux/files/home/hammer/python2 hammer.py
+python2 /data/data/com.termux/files/home/hammer/python2 hammer.py
 
 ;;
 
@@ -648,7 +648,7 @@ echo -e "${y} Installer torshammer..."
 echo -e "${y} cd torshammer"
 echo -e "${y} python2 torshammer.py"
 cd /data/data/com.termux/files/home/torshammer
-bash /data/data/com.termux/files/home/torshammer/python2 torshammer.py
+python2 /data/data/com.termux/files/home/torshammer/python2 torshammer.py
 
 ;;
 
@@ -659,7 +659,7 @@ echo -e "${y} Installer ipddos..."
 echo -e "${y} cd ipddos"
 echo -e "${y} python2 ipddos.py"
 cd /data/data/com.termux/files/home/ipddos
-bash /data/data/com.termux/files/home/ipddos/python2 ipddos.py
+python2 /data/data/com.termux/files/home/ipddos/python2 ipddos.py
 
 ;;
 
@@ -693,7 +693,7 @@ echo -e "${y} cd Spammer-Grab"
 echo -e "${y} chmod +x spammer.py"
 echo -e "${y} python2 spammer.py"
 cd /data/data/com.termux/files/home/Spamer-Grab
-bash /data/data/com.termux/files/home/Spamer-Grab/python2 spammer.py
+python2 /data/data/com.termux/files/home/Spamer-Grab/python2 spammer.py
 
 ;;
 
@@ -705,7 +705,7 @@ echo -e "${y} unzip bom-mall.zip"
 echo -e "${y} cd bom-mall"
 echo -e "${y} php run.php"
 cd /data/data/com.termux/files/home/bom-mall
-bash /data/data/com.termux/files/home/bom-mall/php run.php
+php /data/data/com.termux/files/home/bom-mall/php run.php
 
 ;;
 
@@ -715,7 +715,7 @@ bash /data/data/com.termux/files/home/bom-mall/php run.php
 echo -e "${y} installer bombtsel.php"
 echo -e "${y} chmod 777 bombtsel.php"
 echo -e "${y} php bombtsel.php"
-bash /data/data/com.termux/files/home/php bombtsel.php
+php /data/data/com.termux/files/home/php bombtsel.php
 
 ;;
 
@@ -724,7 +724,7 @@ bash /data/data/com.termux/files/home/php bombtsel.php
 45) curl https://pastebin.com/raw/9BYy1 JVc -o jdid.php
 echo -e "${y} installer jdid.php"
 echo -e "${y} php jdid.php"
-bash /data/data/com.termux/files/home/php jdid.php
+php /data/data/com.termux/files/home/php jdid.php
 
 ;;
 
@@ -733,7 +733,7 @@ bash /data/data/com.termux/files/home/php jdid.php
 46) git clone https://github.com/Gameye98/SpazSMS
 echo -e "${y} installer SpazSMS"
 echo -e "${y} cd SpazSMS"
-bash /data/data/com.termux/files/home/SpazSMS
+cd /data/data/com.termux/files/home/SpazSMS
 
 ;;
 
@@ -744,7 +744,7 @@ echo -e "${y} installer AVARspam"
 echo -e "${y} cd AVARspam"
 echo -e "${y} python2 AVARspam.py"
 cd /data/data/com.termux/files/home/AVARspam
-bash /data/data/com.termux/files/home/AVARspam/python2 AVARspam.py
+python2 /data/data/com.termux/files/home/AVARspam/python2 AVARspam.py
 
 ;;
 
@@ -790,7 +790,7 @@ echo -e "${y} installer Xshell"
 echo -e "${y} cd Xshell"
 echo -e "${y} python2 xshell.py"
 cd /data/data/com.termux/files/home/Xshell
-bash /data/data/com.termux/files/home/Xshell/python2 xshell.py
+python2 /data/data/com.termux/files/home/Xshell/python2 xshell.py
 
 ;;
 
@@ -801,7 +801,7 @@ echo -e "${y} installer Black-Hydra"
 echo -e "${y} cd Black-Hydra"
 echo -e "${y} python2 blackhydra.py"
 cd /data/data/com.termux/files/home/Black-Hydra
-bash /data/data/com.termux/files/home/Black-Hydra/blackhydra.py
+python2 /data/data/com.termux/files/home/Black-Hydra/blackhydra.py
 
 ;;
 
@@ -812,7 +812,7 @@ echo -e "${y} installer BoxServer"
 echo -e "${y} cd BoxServer"
 echo -e "${y} python2 BoxServer.py"
 cd /data/data/com.termux/files/home/BoxServer
-bash /data/data/com.termux/files/home/BoxServer/python2 BoxServer.py
+python2 /data/data/com.termux/files/home/BoxServer/python2 BoxServer.py
 
 ;;
 
@@ -823,7 +823,7 @@ echo -e "${y} installer BoxCoder"
 echo -e "${y} cd BoxCoder"
 echo -e "${y} python2 BoxCoder.py"
 cd /data/data/com.termux/files/home/BoxCoder
-bash /data/data/com.termux/files/home/BoxCoder/Python2 BoxCoder.py
+python2 /data/data/com.termux/files/home/BoxCoder/Python2 BoxCoder.py
 
 ;;
 
@@ -846,7 +846,7 @@ echo -e "${y} installer santet-online"
 echo -e "${y} cd santet-online"
 echo -e "${y} python2 santet.py"
 cd /data/data/com.termux/files/home/santet-online
-bash /data/data/com.termux/files/home/santet-online/python2 santet.py
+python2 /data/data/com.termux/files/home/santet-online/python2 santet.py
 
 ;;
 
@@ -857,7 +857,7 @@ echo -e "${y} installer maps"
 echo -e "${y} cd maps"
 echo -e "${y} perl maps.pl"
 cd /data/data/com.termux/files/home/maps
-bash /data/data/com.termux/files/home/maps/perl maps.pl
+perl /data/data/com.termux/files/home/maps/perl maps.pl
 
 ;;
 
@@ -879,7 +879,7 @@ echo -e "${y} installer hacktronian.git"
 echo -e "${y} cd hacktronian"
 echo -e "${y} python2 hacktronian.py"
 cd /data/data/com.termux/files/home/hacktronian
-bash /data/data/com.termux/files/home/hacktronian/python2 hacktronian.py
+python2 /data/data/com.termux/files/home/hacktronian/python2 hacktronian.py
 
 ;;
 
@@ -890,7 +890,7 @@ echo -e "${y} installer Devploit.git"
 echo -e "${y} cd Devploit"
 echo -e "${y} python2 Devploit.py"
 cd /data/data/com.termux/files/home/Devploit
-bash /data/data/com.termux/files/home/Devploit/python2 Devploit.py
+python2 /data/data/com.termux/files/home/Devploit/python2 Devploit.py
 
 ;;
 
@@ -936,7 +936,7 @@ echo -e "${y} installer diejoubu"
 echo -e "${y} cd v1.2"
 echo -e "${y} php diejoubu.php"
 cd /data/data/com.termux/files/home/v1.2
-bash /data/data/com.termux/files/home/v1.2/php diejoubu.php
+php /data/data/com.termux/files/home/v1.2/php diejoubu.php
 
 ;;
 
@@ -947,7 +947,7 @@ echo -e "${y} installer D-TECT"
 echo -e "${y} cd D-TECT"
 echo -e "${y} python2 d-tect.py"
 cd /data/data/com.termux/files/home/D-TECT
-bash /data/data/com.termux/files/home/D-TECT/python2 d-tect.py
+python2 /data/data/com.termux/files/home/D-TECT/python2 d-tect.py
 
 ;;
 
@@ -958,7 +958,7 @@ echo -e "${y} installer Hash-Buster"
 echo -e "${y} cd Hash-Buster"
 echo -e "${y} python2 hash.py"
 cd /data/data/com.termux/files/home/Hash-Buster
-bash /data/data/com.termux/files/home/Hash-Buster/python2 hash.py
+python2 /data/data/com.termux/files/home/Hash-Buster/python2 hash.py
 
 ;;
 
@@ -969,7 +969,7 @@ echo -e "${y} installer CrewBot"
 echo -e "${y} cd CrewBot"
 echo -e "${y} python2 CrewBot.py"
 cd /data/data/com.termux/files/home/CrewBot
-bash /data/data/com.termux/files/home/CrewBot/python2 CrewBot.py
+python2 /data/data/com.termux/files/home/CrewBot/python2 CrewBot.py
 
 ;;
 
@@ -981,7 +981,7 @@ echo -e "${y} cd OSIF"
 echo -e "${y} pip2 install -r requirements.txt"
 echo -e "${y} python2 osif.py"
 cd /data/data/com.termux/files/home/OSIF
-bash /data/data/com.termux/files/home/OSIF/python2 osif.py
+python2 /data/data/com.termux/files/home/OSIF/python2 osif.py
 
 ;;
 
@@ -993,7 +993,7 @@ echo -e "${y} cd webpwn3r"
 echo -e "${y} chmod +x scan.py"
 echo -e "${y} python2 scan.py"
 cd /data/data/com.termux/files/home/webpwn3r
-bash /data/data/com.termux/files/home/webpwn3r/python2 scan.py
+python2 /data/data/com.termux/files/home/webpwn3r/python2 scan.py
 
 ;;
 
@@ -1026,7 +1026,7 @@ echo -e "${y} installer html-downloader"
 echo -e "${y} cd html-downloader"
 echo -e "${y} python2 html.py"
 cd /data/data/com.termux/files/home/html-downloader
-bash /data/data/com.termux/files/home/html-downloader/python2 html.py
+python2 /data/data/com.termux/files/home/html-downloader/python2 html.py
 
 ;;
 
@@ -1037,7 +1037,7 @@ echo -e "${y} installer zipcrack"
 echo -e "${y} cd zipcrack"
 echo -e "${y} python2 zipcrack.py"
 cd /data/data/com.termux/files/home/zipcrack
-bash /data/data/com.termux/files/home/zipcrack/python2 zipcrack.py
+python2 /data/data/com.termux/files/home/zipcrack/python2 zipcrack.py
 
 ;;
 
@@ -1049,7 +1049,7 @@ echo -e "${y} pip install request"
 echo -e "${y} cd Google-Dork"
 echo -e "${y} python2 Google.py"
 cd /data/data/com.termux/files/home/Google-Dork
-bash /data/data/com.termux/files/home/Google-Dork/python2 Google.py
+python2 /data/data/com.termux/files/home/Google-Dork/python2 Google.py
 
 ;;
 
@@ -1070,7 +1070,7 @@ echo -e "${y} cd Striker"
 echo -e "${y} pip2 install -r requirements.txt"
 echo -e "${y} python2 striker.py"
 cd /data/data/com.termux/files/home/Striker
-bash /data/data/com.termux/files/home/Striker/python2 striker.py
+python2 /data/data/com.termux/files/home/Striker/python2 striker.py
 
 ;;
 
@@ -1082,7 +1082,7 @@ echo -e "${y} cd Phising-Game-Online"
 echo -e "${y} pip2 install requests"
 echo -e "${y} python2 phising.py"
 cd /data/data/com.termux/files/home/Phising-Game-Online
-bash /data/data/com.termux/files/home/Phising-Game-Online/python2 phising.py
+python2 /data/data/com.termux/files/home/Phising-Game-Online/python2 phising.py
 
 ;;
 
