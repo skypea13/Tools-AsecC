@@ -14,4 +14,4 @@ $git clone https://github.com/muhammadfathul/Tools-AsecC
 
 $cd Tools-AsecC
 
-$sh Tools-AsecC.
+$sh Tools-AsecC.sh
