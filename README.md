@@ -2,7 +2,11 @@
 Tools-AsecC Kumpulan Tool dari para Mastah Terbaru 2019 For Termux
 $pkg update && upgrade
 
-$pkg install php
+$pkg install cowsay
+
+$pkg install figlet
+
+$gem install lolcat
 
 $pkg install git
 
