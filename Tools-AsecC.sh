@@ -19,6 +19,9 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
+echo
+echo
+python2 .password.py
 
 figlet Tools | lolcat
 figlet AsecC | lolcat
